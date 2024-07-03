@@ -6,6 +6,8 @@
 
 ### lazy.nvim
 
+Requires Nvim >= 0.10
+
 ```lua
 {
   "mhanberg/workspace-folders.nvim",
